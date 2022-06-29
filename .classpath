@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_321"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/byte-buddy-1.11.12.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/dom4j-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/hibernate-core-5.4.33.Final.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/jandex-2.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/javassist-3.27.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/jboss-logging-3.4.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/lobsdbc/hi/gson-2.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
